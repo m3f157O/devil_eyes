@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "7J+ENV3MrGQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gianm\\source\\repos\\k2\\k2\\k2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.diagnostics.netcore.client\\0.2.510501\\microsoft.diagnostics.netcore.client.0.2.510501.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.diagnostics.tracing.eventsource.redist\\6.0.0\\microsoft.diagnostics.tracing.eventsource.redist.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.diagnostics.tracing.traceevent\\3.1.16\\microsoft.diagnostics.tracing.traceevent.3.1.16.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.reflection.typeextensions\\4.7.0\\system.reflection.typeextensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\gianm\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'Microsoft.Diagnostics.Tracing.EventSource.Redist 6.0.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "Microsoft.Diagnostics.Tracing.EventSource.Redist",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
